@@ -1,24 +1,36 @@
 # order-summary-component
 
-## Project setup
-```
-npm install
-```
+- Estimated Time:
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- Start date:
 
-### Compiles and minifies for production
-```
-npm run build
-```
+- End date:
 
-### Lints and fixes files
-```
-npm run lint
-```
+- Deployed URL:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Git issue: https://github.com/michellbrito/Frontend-Mentor/issues/1
+
+### Project Instructions
+
+- Project setup
+
+  ```
+  npm install
+  ```
+
+- Compiles and hot-reloads for development
+
+  ```
+  npm run serve
+  ```
+
+- Compiles and minifies for production
+
+  ```
+  npm run build
+  ```
+
+- Lints and fixes files
+  ```
+  npm run lint
+  ```
