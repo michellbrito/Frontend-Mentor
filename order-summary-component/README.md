@@ -1,8 +1,8 @@
 # order-summary-component
 
-- Estimated Time:
+- Estimated Time: 1 day
 
-- Start date:
+- Start date: 12/07/21
 
 - End date:
 
