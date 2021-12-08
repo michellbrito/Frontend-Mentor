@@ -4,9 +4,9 @@
 
 - Start date: 12/07/21
 
-- End date:
+- End date: 12/08/21
 
-- Deployed URL:
+- Deployed URL: https://order-summary-mb.herokuapp.com/
 
 - Git issue: https://github.com/michellbrito/Frontend-Mentor/issues/1
 
