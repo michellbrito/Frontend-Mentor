@@ -43,4 +43,10 @@ body {
   background-repeat: no-repeat;
   font-family: 'Red Hat Display', sans-serif;
 }
+
+@media only screen and (max-width: 600px) {
+  .container {
+      background-image: url("./assets/images/pattern-background-mobile.svg");
+  }
+}
 </style>
