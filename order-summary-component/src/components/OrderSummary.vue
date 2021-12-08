@@ -178,4 +178,47 @@ export default {
   color: #1f2e55;
   cursor: pointer;
 }
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+  .card {
+    height: 567px;
+    width: 327px;
+  }
+
+  .cardHeader {
+    height: 160px;
+    margin-bottom: 32px;
+  }
+
+  .title {
+    font-size: 22px;
+    line-height: 29px;
+  }
+
+  .description {
+    width: 263px;
+    height: 75px;
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 24px;
+    margin-left: 32px;
+  }
+
+  .planBtn {
+    width: 279px;
+    height: 81px;
+    justify-content: center;
+    align-items: center;
+    margin-left: 32px;
+  }
+
+  .payBtn {
+    margin-top: 24px;
+    margin-bottom: 24px;
+    margin-left: 32px;
+    width: 279px;
+    height: 50px;
+  }
+}
 </style>
